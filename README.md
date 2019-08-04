@@ -1,4 +1,4 @@
-## Welcome to my personal bog.
+## Welcome to my personal blog.
 
 Here, I'm going to share my personal life events and also new or exiting things I've recently learned with you.
 
@@ -6,4 +6,4 @@ Here, I'm going to share my personal life events and also new or exiting things 
 Coming soon.
 
 ### Software development stuff
-Comin soon.
+Coming soon.
